@@ -16,3 +16,5 @@ This growth mindset is based on the belief that your basic qualities are things 
 * Strengthen your Confidence
 
 To more information about growth mindset ***click this link*** [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
+**Introduction about me:**    My name is Aseel, I'm 23 years old, and I'm a fresh graduate ,I have a bachelor's degree  of computer science from Yarmouk university
