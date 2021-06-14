@@ -15,4 +15,4 @@ This growth mindset is based on the belief that your basic qualities are things 
 * Improve your Relationships
 * Strengthen your Confidence
 
-To more information about growth mindset **click this link** [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+To more information about growth mindset ***click this link*** [growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
