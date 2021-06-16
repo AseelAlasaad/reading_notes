@@ -24,11 +24,9 @@ JavaScript (often shortened to JS), is a lightweight programming language,javasc
  There are a number of way JavaScript can display text for the user (output). The most simple one is by using the alert function:
  alert this will show a pop-up in the browser with the text.
  
- <script language="javascript">
  
-"alert("Hello World")"
- 
-</script>
+ alert("Hello World")
+  
  document.write function to change the content of the page.
  <script>
  
