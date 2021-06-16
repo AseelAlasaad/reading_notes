@@ -13,4 +13,6 @@ JavaScript (often shortened to JS), is a lightweight programming language,javasc
  * double
  * Bolean
  * String
- * 
+ 
+ All JavaScript variables must be identified with unique names,names can contain letters, digits, underscores( _ ), and dollar signs ( $),names must begin with a letter or $,
+ befor write the name of variable you must write the keyword (**var**), key words cannot be used as names.
