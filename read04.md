@@ -26,7 +26,12 @@ JavaScript (often shortened to JS), is a lightweight programming language,javasc
  
  <script language="javascript">
  
-alert("Hello World");
+alert("Hello World")
  
 </script>
- document.write function to change the content of the page
+ document.write function to change the content of the page.
+ <script>
+ 
+document.write("<p> Hello World </p>")
+ 
+</script>
