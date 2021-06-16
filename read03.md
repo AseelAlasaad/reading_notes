@@ -15,7 +15,6 @@ Wireframing is a practice used by UX designers which allows them to define and p
   
   ## Semantic
   In programming, Semantics refers to the meaning of a piece of code,Html contain Semantic ,such as:
-  * <h1> means The top heading level in your page 
   * footer 
   * header
   * title
