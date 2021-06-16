@@ -16,3 +16,17 @@ JavaScript (often shortened to JS), is a lightweight programming language,javasc
  
  All JavaScript variables must be identified with unique names,names can contain letters, digits, underscores( _ ), and dollar signs ( $),names must begin with a letter or $,
  befor write the name of variable you must write the keyword (**var**), key words cannot be used as names.
+ 
+ In JavaScript, the equal sign (=) is an assignment operator, use equal to assigtn a value to the variable like (var name ="aseel")
+ the comparison operator ,use to compar betwwen two values same datatype , for example (>,<,<=,==,>=) .
+ 
+ Input Output in javascript:
+ There are a number of way JavaScript can display text for the user (output). The most simple one is by using the alert function:
+ alert this will show a pop-up in the browser with the text.
+ 
+ <script language="javascript">
+ 
+alert("Hello World");
+ 
+</script>
+ document.write function to change the content of the page
