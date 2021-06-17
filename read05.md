@@ -26,3 +26,7 @@ OR: return true  if one of operands are true, and not operator.
 
 An arithmetic operator takes numerical values  and returns a single numerical value,like multiplication(*),plus(+).
 
+# Loops and iteration
+
+Loops offer a quick and easy way to do something repeatedly,There are many different kinds of loops, but they all essentially do the same thing: they repeat an action some number of times. 
+The statements for loops in JavaScript are:
