@@ -27,3 +27,8 @@ There are three ways of inserting a style sheet:
 * Inline CSS
   
   ![inline](https://www.wikitechy.com/css/img/css-images/code-explanation-css-inline-style-sheet.png)
+    
+    
+  you can  Set the text-color for different elements
+    
+    ![color](https://csharpcorner-mindcrackerinc.netdna-ssl.com/UploadFile/219d4d/basics-of-css-part-1/Images/syntax%20css.png)
