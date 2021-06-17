@@ -1,0 +1,11 @@
+# JavaScript's expressions and operators
+
+The javascript operators include:
+
+* Assignment operators
+
+* Comparison operators
+
+* Logical operators
+
+* Arithmetic operators
