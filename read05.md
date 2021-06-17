@@ -2,10 +2,12 @@
 
 The javascript operators include:
 
-* Assignment operators
+* Assignment operators ->  (equal or =)
 
-* Comparison operators
+* Comparison operators -> (greater than >,less than <,less than or equal <=)
 
-* Logical operators
+* Logical operators -> (and  &&, or || ,not!)
 
-* Arithmetic operators
+* Arithmetic operators ->(multiply *, plus +)
+
+
