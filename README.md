@@ -13,6 +13,7 @@
   5. read04 | [read04](https://aseelalasaad.github.io/reading_notes/read04)
   6. read05 | [read05](https://aseelalasaad.github.io/reading_notes/read05)
   7. read06 | [read06](https://aseelalasaad.github.io/reading_notes/read06)
+  8. read07 | [read07](https://aseelalasaad.github.io/reading_notes/read07)
 
  
 
