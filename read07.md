@@ -17,5 +17,21 @@ Syntax:
 There are two way to defining functions:
 
 * Function declarations
+ 
+ function functionName(parameters) {
+  // code to be executed
+}
+
+
+
 
 * Function expressions
+
+var foo = function() { //code to be executed }
+
+The code inside a function is executed when the function is invoked,look at of this example about how invoke the function:
+
+function myFunction(a, b) {
+  return a * b;
+}
+myFunction(10, 2); //calling function.
