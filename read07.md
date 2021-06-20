@@ -14,3 +14,8 @@ Syntax:
 
 ![syntax](https://cdn.programiz.com/cdn/farfuture/oAZVf3IqOKOYj_aJ-IoYQvbJ2CB-B3y4HXSLXBUmYcY/mtime:1591592163/sites/tutorial2program/files/javascript-function-with-parameter.png)
 
+There are two way to defining functions:
+
+* Function declarations
+
+* Function expressions
