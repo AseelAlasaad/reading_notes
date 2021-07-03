@@ -37,6 +37,9 @@ When creating a web page, you add tags to the contents of the page. These tags p
  * < nav > - Defines a set of navigation links.
  * < header > - Defines a header for a document or a section.
  
+ ## Process and Design
+ 
+   Every website should be designed for the target audience—not just for yourself or the site owner. It is therefore very important to understand who your target audience  is.after  you know who your visitors are, you need to consider why they are coming. most of people will visit  your  website for a specific reason.Your content and design should be influenced by the goals of your users. 
  # JavaScript
  ![javascript](https://www.vitoshacademy.com/wp-content/uploads/2015/04/JS.png)
  
