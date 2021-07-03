@@ -19,6 +19,11 @@ The HTML syntax is made of markup called Tags . Some of those markup contains li
   |< ul > |unordared list       |
   
   There are four required tags in HTML. These are html, title, head and body.
+  *  < title > The contents of the <title> element are either shown in the top of the browser
+  *  < head >  Before the <body> element you will often see a <head> element. 
+  *  < body >  Everything inside this element is shown inside the main browser window.
+ Elements are usually made up of two tags: an opening tag and a closing tag. (The closing tag has an extra forward slash in it.) Each HTML element tells the browser something  about the information that sits between its opening and closing tags.
+  
   
 ![html code](https://www.almrsal.com/wp-content/uploads/2019/02/%D8%A7%D9%83%D9%88%D8%A7%D8%AF-%D9%84%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9.png)
 
