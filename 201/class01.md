@@ -15,4 +15,5 @@ The HTML syntax is made of markup called Tags . Some of those markup contains li
   |< img> | image               |
   |< a >  | Links               |
   |< br > |single line break    |
-  |< br > |single line break    |
+  |< li > |list item            |
+  |< ul > |unordared list       |
