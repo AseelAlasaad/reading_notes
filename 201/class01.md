@@ -30,10 +30,10 @@ The HTML syntax is made of markup called Tags . Some of those markup contains li
 When creating a web page, you add tags to the contents of the page. These tags provide extra meaning ,these "tage" known as a Semantic markup , like header,footer,main,article.
  
  ## HTML Layout Elements
- * <article> - Defines an independent, self-contained content
- * <section> - Defines a section in a document.
- * <nav> - Defines a set of navigation links.
- * <header> - Defines a header for a document or a section.
+ * < article > - Defines an independent, self-contained content
+ * < section > - Defines a section in a document.
+ * < nav > - Defines a set of navigation links.
+ * < header > - Defines a header for a document or a section.
  
  # JavaScript
  ![javascript](https://www.vitoshacademy.com/wp-content/uploads/2015/04/JS.png)
