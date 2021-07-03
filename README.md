@@ -2,7 +2,7 @@
 **Introduction about me:**  
   My name is Aseel, I'm 23 years old, and I'm a fresh graduate ,I have a bachelor's degree  of computer science from Yarmouk university
 
-  #  code 102 reading_notes :
+  ## code 102 reading notes :
 
   1.  Growth mindset | [Growth mindset](https://aseelalasaad.github.io/reading_notes/Growth%20mindset)
 
@@ -16,7 +16,7 @@
   8. read07 | [102/read07](https://aseelalasaad.github.io/reading_notes/read07)
   
   
-   #  code 201 reading_notes :
+   ## code 201 reading notes :
 
  
 
