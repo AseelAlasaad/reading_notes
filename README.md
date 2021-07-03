@@ -17,7 +17,7 @@
   
 **code 201 reading notes** :
 
-  1. Introduction | [html css js]()
+  1. Introduction | [html css js](https://aseelalasaad.github.io/reading_notes/201/class01)
   2. class02/201 | [read02]()
 
 
