@@ -39,7 +39,7 @@ When creating a web page, you add tags to the contents of the page. These tags p
  
  ## Process and Design
  
-   Every website should be designed for the target audience—not just for yourself or the site owner. It is therefore very important to understand who your target audience  is.after  you know who your visitors are, you need to consider why they are coming. most of people will visit  your  website for a specific reason.Your content and design should be influenced by the goals of your users. 
+   Every website should be designed for the target audience—not just for yourself or the site owner. It is therefore very important to understand who your target audience  is.after  you know who your visitors are, you need to consider why they are coming. most of people will visit  your  website for a specific reason.Your content and design should be influenced by the goals of your users.after you know what needs to appear on your site, you can start to organize the information into sections or pages,The aim is to create a diagram of the pages that will be used to structure the site. This is known as a site map and it will show how those pages can be grouped.A wireframe is a simple sketch of the key information that needs to go on each page of a site.
  # JavaScript
  ![javascript](https://www.vitoshacademy.com/wp-content/uploads/2015/04/JS.png)
  
