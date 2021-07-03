@@ -18,7 +18,7 @@
 **code 201 reading notes** :
 
   1. Introduction | [html css js]()
-  2. class02/102 | [read02]()
+  2. class02/201 | [read02]()
 
 
  
