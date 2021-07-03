@@ -5,7 +5,7 @@
 
  # code 102 reading notes:
 
-  1. mindset | [102/Growth mindset](https://aseelalasaad.github.io/reading_notes/Growth%20mindset)
+  1. mindset | [102/mindset](https://aseelalasaad.github.io/reading_notes/Growth%20mindset)
   2. read01 | [102/read01](https://aseelalasaad.github.io/reading_notes/read01)
   3. read02 | [102/read02](https://aseelalasaad.github.io/reading_notes/read02)
   4. read03 | [102/read03](https://aseelalasaad.github.io/reading_notes/read03)
