@@ -18,6 +18,7 @@ The HTML syntax is made of markup called Tags . Some of those markup contains li
   |< li > |list item            |
   |< ul > |unordared list       |
   
+  There are four required tags in HTML. These are html, title, head and body.
   
 ![html code](https://www.almrsal.com/wp-content/uploads/2019/02/%D8%A7%D9%83%D9%88%D8%A7%D8%AF-%D9%84%D9%84%D9%85%D9%88%D8%A7%D9%82%D8%B9.png)
 
