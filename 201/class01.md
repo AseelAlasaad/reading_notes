@@ -30,6 +30,8 @@ The HTML syntax is made of markup called Tags . Some of those markup contains li
 When creating a web page, you add tags to the contents of the page. These tags provide extra meaning ,these "tage" known as a Semantic markup , like header,footer,main,article.
  
  ## HTML Layout Elements
+  An HTML layout is a structure that helps the user navigate through web pages easily. It is a way in which you can design web pages using simple HTML tags.HTML5 introduces a   new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them.
+  
  * < article > - Defines an independent, self-contained content
  * < section > - Defines a section in a document.
  * < nav > - Defines a set of navigation links.
