@@ -48,6 +48,7 @@ When creating a web page, you add tags to the contents of the page. These tags p
  
  JavaScript is the world's most popular programming language.JavaScript is a scripting or programming language that allows you to implement complex features on web pages, It is the third layer of the  standard web technologies, two of which (HTML and CSS),is a scripting language that enables you to create dynamically updating content, control multimedia, animate images
  
+
  
  
  
