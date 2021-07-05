@@ -162,7 +162,7 @@ This hides the element.
 visible
 This shows the element.
 
-## JavaScript
+#### JavaScript
 
 Comparision operators usually return single valuse of true or false.
 
@@ -182,6 +182,7 @@ Swich statments
 
 Loops : Loop provides a quick and easy way to do repetitive tasks. They offer to perform iterations with only a few lines of code. We repeat the sequence of instructions until the test condition is true.
 
+![loop](https://www.javascripttutorial.net/wp-content/uploads/2020/01/JavaScript-for-Loop.png)
 * for loop
 
 * while loop
