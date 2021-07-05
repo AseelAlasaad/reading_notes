@@ -18,7 +18,7 @@
 **code 201 reading notes** :
 
   1. class01 | [html css js](https://aseelalasaad.github.io/reading_notes/201/class01)
-  2. class02/201 | [read]()
+  2. class02 | [HTML CSS JS more info](https://aseelalasaad.github.io/reading_notes/201/class02)
 
 
  
