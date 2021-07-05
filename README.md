@@ -20,6 +20,8 @@
   1. class01 | [html css js](https://aseelalasaad.github.io/reading_notes/201/class01)
   2. class02 | [HTML CSS JS more info](https://aseelalasaad.github.io/reading_notes/201/class02)
 
+ 3. class03 | [HTML $ css & js](https://aseelalasaad.github.io/reading_notes/201/class03)
+
 
  
 
