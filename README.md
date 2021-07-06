@@ -22,6 +22,8 @@
 
  3. class03 | [HTML $ css & js](https://aseelalasaad.github.io/reading_notes/201/class03)
 
+ 4. class04 | [HTML Links, JS Functions](https://aseelalasaad.github.io/reading_notes/201/class04)
+
 
  
 
