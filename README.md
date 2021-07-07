@@ -24,6 +24,8 @@
 
  4. class04 | [HTML Links, JS Functions](https://aseelalasaad.github.io/reading_notes/201/class04)
 
+ 5. class5 | [Images, Color, Text](https://aseelalasaad.github.io/reading_notes/201/class5)
+
 
  
 
