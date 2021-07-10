@@ -17,14 +17,17 @@
   
 **code 201 reading notes** :
 
-  1. class01 | [html css js](https://aseelalasaad.github.io/reading_notes/201/class01)
-  2. class02 | [HTML CSS JS more info](https://aseelalasaad.github.io/reading_notes/201/class02)
+1. class01 | [html css js](https://aseelalasaad.github.io/reading_notes/201/class01)
 
- 3. class03 | [HTML $ css & js](https://aseelalasaad.github.io/reading_notes/201/class03)
+2. class02 | [HTML CSS JS more info](https://aseelalasaad.github.io/reading_notes/201/class02)
 
- 4. class04 | [HTML Links, JS Functions](https://aseelalasaad.github.io/reading_notes/201/class04)
+3. class03 | [HTML $ css & js](https://aseelalasaad.github.io/reading_notes/201/class03)
 
- 5. class5 | [Images, Color, Text](https://aseelalasaad.github.io/reading_notes/201/class5)
+4. class04 | [HTML Links, JS Functions](https://aseelalasaad.github.io/reading_notes/201/class04)
+
+5. class5  | [Images, Color, Text](https://aseelalasaad.github.io/reading_notes/201/class5)
+
+6. class06 | [Object Literals](https://aseelalasaad.github.io/reading_notes/201/class06)
 
 
  
