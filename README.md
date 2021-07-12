@@ -29,6 +29,10 @@
 
 6. class06 | [Object Literals](https://aseelalasaad.github.io/reading_notes/201/class06)
 
+6. class07 | [Object Literals](https://aseelalasaad.github.io/reading_notes/201/class07)
+
+6. class08 | [Object Literals](https://aseelalasaad.github.io/reading_notes/201/class08)
+
 
  
 
