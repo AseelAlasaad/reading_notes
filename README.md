@@ -29,9 +29,13 @@
 
 6. class06 | [Object Literals](https://aseelalasaad.github.io/reading_notes/201/class06)
 
-6. class07 | [constructor](https://aseelalasaad.github.io/reading_notes/201/class07)
+7. class07 | [constructor](https://aseelalasaad.github.io/reading_notes/201/class07)
 
-6. class08 | [Layout](https://aseelalasaad.github.io/reading_notes/201/class08)
+8. class08 | [Layout](https://aseelalasaad.github.io/reading_notes/201/class08)
+
+9. class09 | [event,forms](https://aseelalasaad.github.io/reading_notes/201/class09)
+
+10. class10 | [Error Handling & Debugging](https://aseelalasaad.github.io/reading_notes/201/class10)
 
 
  
