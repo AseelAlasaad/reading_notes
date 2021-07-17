@@ -37,6 +37,7 @@
 
 10. class10 | [Error Handling & Debugging](https://aseelalasaad.github.io/reading_notes/201/class10)
 
+11. class11 | [Images,Practical Information](https://aseelalasaad.github.io/reading_notes/201/class11)
 
  
 
