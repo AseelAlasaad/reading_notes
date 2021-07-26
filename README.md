@@ -39,7 +39,7 @@
 
 11. class11 | [Images,Practical Information](https://aseelalasaad.github.io/reading_notes/201/class11)
 
- 12. class12 | [Chart.js, Canvas](https://aseelalasaad.github.io/reading_notes/201/class12)
+12. class12 | [Chart.js, Canvas](https://aseelalasaad.github.io/reading_notes/201/class12)
 
-
+13. class13 | [Local Storage](https://aseelalasaad.github.io/reading_notes/201/class13)
 
