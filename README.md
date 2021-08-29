@@ -3,7 +3,7 @@
 **Introduction about me:**  
   My name is Aseel, I'm 23 years old, and I'm a fresh graduate ,I have a bachelor's degree  of computer science from Yarmouk university.
 
- **code 102 reading notes**:
+ **Code 102 - Intro to Software Development**:
 
   1. mindset/102 | [mindset](https://aseelalasaad.github.io/reading_notes/102/mindset)
   2. read01/102 | [read01](https://aseelalasaad.github.io/reading_notes/102/read01)
@@ -14,8 +14,9 @@
   7. read06/102 | [read06](https://aseelalasaad.github.io/reading_notes/102/read06)
   8. read07/102 | [read07](https://aseelalasaad.github.io/reading_notes/102/read07)
   
+
   
-**code 201 reading notes** :
+**Code 201 - Foundations of Software Development** :
 
 1. class01 | [html css js](https://aseelalasaad.github.io/reading_notes/201/class01)
 
@@ -46,6 +47,11 @@
 13. class14 | [Local Storage](https://aseelalasaad.github.io/reading_notes/201/class14)
 
 
-**code 301 reading notes** :
+
+**Code 301 - Intermediate Software Development** :
 
 1. class01 | [react](https://aseelalasaad.github.io/reading_notes/301/class01)
+
+2. read01 | [Introduction to React and Components](https://aseelalasaad.github.io/reading_notes/301/read01)
+
+3. class02 | [react](https://aseelalasaad.github.io/reading_notes/301/class02)
