@@ -54,4 +54,4 @@
 
 2. read01 | [Introduction to React and Components](https://aseelalasaad.github.io/reading_notes/301/read01)
 
-3. class02 | [react](https://aseelalasaad.github.io/reading_notes/301/class02)
+3. class02 | [State and Props](https://aseelalasaad.github.io/reading_notes/301/class02)
