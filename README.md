@@ -59,3 +59,5 @@
 4. class03 | [State and Props](https://aseelalasaad.github.io/reading_notes/301/class03)
 
 5. class04 | [State and Props](https://aseelalasaad.github.io/reading_notes/301/class04)
+
+6. class05 | [State and Props](https://aseelalasaad.github.io/reading_notes/301/class05)
