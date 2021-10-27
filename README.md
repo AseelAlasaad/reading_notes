@@ -69,4 +69,6 @@
 
 **Code 401 - Advanced Javascript Development** :
 
-1. class01 | [pre work](https://aseelalasaad.github.io/reading_notes/401/Read01)
+1. Read01 | [pre work](https://aseelalasaad.github.io/reading_notes/401/Read01)
+
+2. class01 | [review](https://aseelalasaad.github.io/reading_notes/401/class1)
