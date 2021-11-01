@@ -72,3 +72,5 @@
 1. Read01 | [pre work](https://aseelalasaad.github.io/reading_notes/401/Read01)
 
 2. class01 | [review](https://aseelalasaad.github.io/reading_notes/401/class1)
+
+3. class02 | [Readings](https://aseelalasaad.github.io/reading_notes/401/class02)
