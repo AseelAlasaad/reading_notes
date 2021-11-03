@@ -19,3 +19,10 @@ ES5 function constructors :this  also uses a new operator for object creation bu
 
 ES6 class constructors: This can be said to be a syntax base for constructor functions and instantiate objects using a new operato
 
+**Why REST?**
+
+ REST stands for Representational State Transfer. It's an architectural pattern for creating web services. A RESTful service is one that implements that pattern.REST can handle multiple types of calls, return different data formats and even change structurally with the correct implementation of hypermedia
+ 
+ functional programming:  is a programming paradigm where programs are constructed by applying and composing functions.
+ 
+ object-oriented programming (OOP):  is based on the concept of objects. In object-oriented programming data structures, or objects are defined, each with its own properties or attributes. Each object can also contain its own procedures or methods. Software is designed by using objects that interact with one another
