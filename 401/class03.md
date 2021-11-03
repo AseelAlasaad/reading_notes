@@ -26,3 +26,16 @@ ES6 class constructors: This can be said to be a syntax base for constructor fun
  functional programming:  is a programming paradigm where programs are constructed by applying and composing functions.
  
  object-oriented programming (OOP):  is based on the concept of objects. In object-oriented programming data structures, or objects are defined, each with its own properties or attributes. Each object can also contain its own procedures or methods. Software is designed by using objects that interact with one another
+ 
+ Class: a class describes the contents of the objects that belong to it.
+ 
+ Which 3 things had you heard about previously and now have better clarity on?
+ 
+ OOP 
+ Class
+ this 
+ 
+ Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
+ 
+ Data model
+ 
