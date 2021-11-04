@@ -77,7 +77,7 @@
 
 4. class03 | [Readings](https://aseelalasaad.github.io/reading_notes/401/class03)
 
-5. Linked-list | [linked list](https://aseelalasaad.github.io/reading_notes/401/Linked-list)
+5. Linked-list | [Linked-list](https://aseelalasaad.github.io/reading_notes/401/Linked-list)
 
 
 
