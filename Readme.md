@@ -78,6 +78,7 @@
 
 4. class03 | [Express REST API](https://aseelalasaad.github.io/reading_notes/401/class3)
 
+4. class4 | [Data Modeling](https://aseelalasaad.github.io/reading_notes/401/class4)
 
 
 
