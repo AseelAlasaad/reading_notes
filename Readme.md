@@ -78,7 +78,11 @@
 
 4. class03 | [Express REST API](https://aseelalasaad.github.io/reading_notes/401/class3)
 
-4. class4 | [Data Modeling](https://aseelalasaad.github.io/reading_notes/401/class4)
+5. class4 | [Data Modeling](https://aseelalasaad.github.io/reading_notes/401/class4)
+
+6. class5 | [class5](https://aseelalasaad.github.io/reading_notes/401/Linked-list)
+
+7. class6 | [class6](https://aseelalasaad.github.io/reading_notes/401/class6)
 
 
 
