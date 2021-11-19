@@ -49,3 +49,28 @@ Socket.io
 * What are you most excited about trying to implement or see how it works?
 
 Socket.io
+
+# Preparation Materials
+
+Rooms:
+A room is an arbitrary channel that sockets can join and leave. It can be used to broadcast events to a subset of clients
+
+![room](https://socket.io/images/rooms.png)
+
+You can call join to subscribe the socket to a given channel:
+
+io.on("connection", (socket) => {
+  socket.join("some room");
+});
+
+Namespaces:
+A Namespace is a communication channel that allows you to split the logic of your application over a single shared connection (also called "multiplexing").
+
+io.of("/orders").on("connection", (socket) => {
+  socket.on("order:list", () => {});
+  socket.on("order:create", () => {});
+});
+
+io.of("/users").on("connection", (socket) => {
+  socket.on("user:list", () => {});
+});
