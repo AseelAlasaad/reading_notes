@@ -25,3 +25,15 @@ Unhandled messages are just ignored. It's just like when an event occurs and the
 11. How can we mitigate this?
 
 You could avoid missing messages by always having the handlers installed and then deciding in the handlers (based on other state) whether to do anything with the message or not.
+
+# Term
+
+* Socket: A socket is one endpoint of a two-way communication link between two programs running on the network
+* Web Socket: protocol enables interaction between a web browser (or other client application) and a web server
+* Socket.io: is a JavaScript library for realtime web applications. It enables realtime, bi-directional communication between web clients and servers. It has two parts: a client-side library that runs in the browser, and a server-side library for Node. js
+* Client:  a person or group that uses the professional advice or services
+* Server: is a piece of computer hardware or software,Typical servers are database servers, file servers, mail servers, print servers, web servers
+* OSI Model: Open Systems Interconnection (OSI) model describes seven layers that computer systems use to communicate over a network
+* TCP Model:  full Transmission Control Protocol/Internet Protocol, standard Internet communications protocols that allow digital computers to communicate over long distances.
+* TCP: stands for Transmission Control Protocol a communications standard that enables application programs and computing devices to exchange messages over a network
+* UDP: (User Datagram Protocol) is a communications protocol that is primarily used for establishing low-latency and loss-tolerating connections between applications on the 
