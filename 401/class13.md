@@ -37,3 +37,15 @@ You could avoid missing messages by always having the handlers installed and the
 * TCP Model:  full Transmission Control Protocol/Internet Protocol, standard Internet communications protocols that allow digital computers to communicate over long distances.
 * TCP: stands for Transmission Control Protocol a communications standard that enables application programs and computing devices to exchange messages over a network
 * UDP: (User Datagram Protocol) is a communications protocol that is primarily used for establishing low-latency and loss-tolerating connections between applications on the 
+
+# Preview
+
+* Which 3 things had you heard about previously and now have better clarity on?
+
+TCP, UDP,OSI
+* Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
+
+Socket.io
+* What are you most excited about trying to implement or see how it works?
+
+Socket.io
