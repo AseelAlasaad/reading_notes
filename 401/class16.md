@@ -25,6 +25,8 @@ Making an application available to end users”. This means that the end user ha
 * Pub/Sub: ublish/subscribe messaging, or pub/sub messaging, is a form of asynchronous service-to-service communication used in serverless and microservices architectures. 
 * WRRC: Web Request Response Cycle
 
+# Preview
+
 * Which 3 things had you heard about previously and now have better clarity on?
  database
 
@@ -32,5 +34,15 @@ Making an application available to end users”. This means that the end user ha
  
   tree
 * What are you most excited about trying to implement or see how it works?
-
-aws
+  aws
+  
+  # Preparation Materials
+  
+  **Amazon EC2**
+  
+  Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. Amazon EC2’s simple web service interface allows you to obtain and configure capacity with minimal friction. It provides you with complete control of your computing resources and lets you run on Amazon’s proven computing environment.
+  
+  **Elastic Beanstalk**
+  
+  WS Elastic Beanstalk is a cloud deployment and provisioning service that automates the process of getting applications set up on the Amazon Web Services (AWS) infrastructure. ... An open architecture means that applications not written for the Web can also be deployed on the Elastic Beanstalk
+  
